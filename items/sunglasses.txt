@@ -1,0 +1,4 @@
+2
+1
++10 coolness
+-5 looking at explosions
