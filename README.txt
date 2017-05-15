@@ -59,3 +59,5 @@ First number is health
 Second is damage
 Third is how many FRAMES between attacks (game at 30 FPS)
 Image should have same name as text file
+
+All files should be in the same folder as the python program.
