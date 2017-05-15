@@ -1,5 +1,6 @@
 A first person dungeon crawler with easily editable maps, items, and enemies.
 Objective is to find gold key and exit the dungeon through the gold door.
+All files should be in the same folder as the python program.
 
 COTNROLS
 ------------------------------
@@ -59,5 +60,3 @@ First number is health
 Second is damage
 Third is how many FRAMES between attacks (game at 30 FPS)
 Image should have same name as text file
-
-All files should be in the same folder as the python program.
